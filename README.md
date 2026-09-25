@@ -20,7 +20,7 @@
 
 ## Overview
 
-A Python script that turns the output of my [file-system-crawler](https://github.com/angiebrr/file-system-crawler) into CSV reports on who is using how much disk space, and on what kinds of files.
+A Python script that turns the output of my [ntsg-file-system-crawler](https://github.com/angiebrr/ntsg-file-system-crawler) into CSV reports on who is using how much disk space, and on what kinds of files.
 
 I wrote this in 2016 as the Linux sysadmin for NTSG, a research group at the University of Montana. It runs a set of queries over the crawler's CSVs once they're imported into a SQLite database, one table per crawl.
 
